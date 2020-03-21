@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Test 2
 image: /img/about-jumbotron.jpg
 values:
   - heading: Shade-grown coffee
